@@ -61,6 +61,7 @@ class Wagon {
                 return true;
             }
         }
+        return false;
     }
 
 //  4. totalFood() - Returns the total amount of food among all passengers in the wagon.

@@ -1,3 +1,13 @@
 * {
     box-sizing: border-box;
 }
+
+.body {
+    background-image: url(..//images/oregon_trail.png);
+    position: relative;
+    margin: auto;
+    width: 1000px;
+    height: 479px;
+    text-align: center;
+}
+
